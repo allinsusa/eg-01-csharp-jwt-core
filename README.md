@@ -27,7 +27,7 @@ This launcher example includes two examples:
 
 ## Installation
 
-Requirements: C# and .NET Core 2.1 or later.
+Requirements: C# and .NET Core 2.2 or later.
 
 This repository has been tested as a Visual Studio 2017
 Community Edition solution.
