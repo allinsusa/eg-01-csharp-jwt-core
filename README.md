@@ -27,14 +27,14 @@ This launcher example includes two examples:
 
 ## Installation
 
-Requirements: C# and .NET Core 2.1 or later.
+Requirements: C# and .NET Core 3.1 or later.
 
-This repository has been tested as a Visual Studio 2017
+This repository has been tested as a Visual Studio 2019
 Community Edition solution.
 
 ### Short installation instructions
 * Download or clone this repository.
-* The repository includes a Visual Studio 2017 solution file and 
+* The repository includes a Visual Studio 2019 solution file and 
   NuGet package references in the project file.
 * Configure the project by editing the existing project file
   `common/App.config`
