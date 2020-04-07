@@ -8,7 +8,7 @@
     <add key="DS_SIGNER_1_NAME" value="Sue Cardella" />
     <add key="DS_CC_1_EMAIL" value="larry@example.com" />
     <add key="DS_CC_1_NAME" value="Charlie Copy" />
-    <add key="DS_AUTH_SERVER" value="https://account-d.docusign.com"/>
+    <add key="DS_AUTH_SERVER" value="account-d.docusign.com"/>
     <add key="DS_PRIVATE_KEY" value="-----BEGIN RSA PRIVATE KEY-----&#xA;
 MIIEowIBAAKCAQEAlrtiTEy3IzEI8jPuGXi/2C8KhNsJgyomP4XdXYwDjTyJm5u4&#xA;
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xA;
